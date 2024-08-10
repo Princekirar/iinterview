@@ -1,4 +1,4 @@
-# iinterview
+# QueryWise 
 Coding interview preperation site backed by ML.
 
 # Presentation 
